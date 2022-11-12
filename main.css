@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.heading_page{
+    background-color: red;
+}
+.heading_page:hover{
+    background-color: pink;
+}
+.heading_page-loginbox .login.logout{
+    color:yellow;
+}
